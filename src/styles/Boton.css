@@ -1,0 +1,22 @@
+button{
+	width: 150px;
+	height: 80px;
+	margin: 5px;
+	border: 2px;
+	font-size: 35px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover{
+	background-color: darkgreen;
+}
+
+.botonClick{
+	background-color: blue;
+}
+
+.botonReiniciar{
+	background-color: brown;
+}
+
